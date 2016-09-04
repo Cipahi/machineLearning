@@ -1,3 +1,6 @@
+# written By Gus Segura 
+# updated 9/2016 : check PNG output file
+
 library(ggplot2)
 library(maps)
 #load us map data
