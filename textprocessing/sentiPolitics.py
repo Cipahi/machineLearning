@@ -10,7 +10,7 @@ class sentiPoint(object):
         x = 1
         data = {}
         
-        print "Analysis of Sentiment: PointInside Apps Related : RetailWire Quotes"
+        print "Analysis of Sentiment: Political News Story"
         print "The polarity score is a float within the range [-1.0, 1.0]."
         # print "The subjectivity is a float within the range [0.0, 1.0] where 0.0 is very"
         # print "objective and 1.0 is very subjective."
