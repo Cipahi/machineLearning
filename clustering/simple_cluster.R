@@ -1,5 +1,7 @@
 # Simple Cluster
 newiris <- iris
+
+# remove dependent, factor, label
 newiris$Species <- NULL
 
 # Use KMeans w/newiris data cluster size 3
