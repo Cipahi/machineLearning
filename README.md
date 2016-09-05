@@ -1,2 +1,2 @@
 # machineLearning
-Samples of R, SAS, Oracle, Alteryx, RapidMiner and Other
+Samples of R, Python, SAS, Oracle, Alteryx, RapidMiner and Other
